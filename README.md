@@ -1,6 +1,8 @@
 @heroku-cli/plugin-config
 =========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/heroku/heroku-cli-plugin-config.svg)](https://greenkeeper.io/)
+
 
 
 [![Version](https://img.shields.io/npm/v/@heroku-cli/plugin-config.svg)](https://npmjs.org/package/@heroku-cli/plugin-config)
