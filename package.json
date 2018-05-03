@@ -14,7 +14,7 @@
     "shell-quote": "^1.6.1"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "1.13.12",
+    "@oclif/dev-cli": "1.13.14",
     "@oclif/plugin-help": "1.2.6",
     "@oclif/test": "1",
     "@oclif/tslint": "1",
